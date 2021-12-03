@@ -1,0 +1,8 @@
+{
+    "apps": {
+        "com.tokopedia.tkpd": {
+            "preinstall_partner": "a_custom_885438935350484118",
+            "preinstall_campaign": "xiaomipreinstallof-dp_int-tp-10001511-0000-alon-alon"
+        }
+    }
+}
