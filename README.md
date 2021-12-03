@@ -1,0 +1,14 @@
+# qssi-user 11 RKQ1.200826.002 V12.5.1.0.RJIMIXM release-keys
+- manufacturer: xiaomi
+- platform: lito
+- codename: monet
+- flavor: qssi-user
+- release: 11
+- id: RKQ1.200826.002
+- incremental: V12.5.1.0.RJIMIXM
+- tags: release-keys
+- fingerprint: Xiaomi/monet_global/monet:11/RKQ1.200826.002/V12.5.1.0.RJIMIXM:user/release-keys
+- is_ab: false
+- brand: Xiaomi
+- branch: qssi-user-11-RKQ1.200826.002-V12.5.1.0.RJIMIXM-release-keys
+- repo: xiaomi_monet_dump
